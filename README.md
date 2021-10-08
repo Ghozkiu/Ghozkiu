@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghozkiu
+- 👋 Hi, I’m Joseph Garcia Barrantes
 - 👀 I’m interested in all new technologies
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript! :D
 - 📫 How to reach me: 
@@ -10,7 +10,6 @@
 . Spanish native speaker
 
 RELATED EXPERIENCE
-Maintenance of electronic devices, like smartphones, network devices, and computers.
 Creation of web pages using HTML, CSS and JavaScript.
 Design of Images and 3D Objects.
 Data manipulation on SQL Databases.
