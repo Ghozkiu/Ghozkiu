@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joseph Garcia Barrantes
 - 👀 I’m interested in all new technologies
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript! :D
-- 
+
 - 📫 How to reach me: 
 - Mail: garciabarrantesjoseph@gmail.com
 . Instagram: @andres.gbs
