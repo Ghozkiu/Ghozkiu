@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Joseph Garcia Barrantes
+# Hi 👋, I’m Joseph A. Garcia Barrantes
 - 👀 I’m interested in all new technologies
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript! :D
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 - Mail: garciabarrantesjoseph@gmail.com
 . Instagram: @andres.gbs
 . Twitter: @JosephAgbs
 
-- 📔 Languages:
+### 📔 Languages:
 . English B2+ level
 . Spanish native speaker
 
-RELATED EXPERIENCE
+### RELATED EXPERIENCE
 Creation of responsive web pages using HTML, CSS, and JavaScript.
 Backend Development using Node.js, MongoDB, and frameworks like Express and ReactJS.
 Experience developing and working with APIs.
