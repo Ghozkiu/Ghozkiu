@@ -5,11 +5,10 @@
 ### 📫 How to reach me: 
 - Mail: garciabarrantesjoseph@gmail.com
 . Instagram: @andres.gbs
-. Twitter: @JosephAgbs
 
 ### 📔 Languages:
-. English B2+ level
-. Spanish native speaker
+. English B2+
+. Spanish native
 
 ### RELATED EXPERIENCE
 Creation of responsive web pages using HTML, CSS, and JavaScript.
