@@ -1,6 +1,6 @@
 # Hi 👋, I’m Joseph A. Garcia Barrantes
 - 👀 I’m interested in all new technologies
-- 🌱 I’m currently learning Java, HTML, CSS and JavaScript! :D
+- 🌱 Experience developing with Java, Python, Javascript (HTML and CSS), C#, and VB.NET.
 
 ### 📫 How to reach me: 
 - Mail: garciabarrantesjoseph@gmail.com
@@ -11,9 +11,9 @@
 - Spanish native
 
 ### RELATED EXPERIENCE
-Creation of responsive web pages using HTML, CSS, and JavaScript.
-Backend Development using Node.js, MongoDB, and frameworks like Express and ReactJS.
+Backend Development using Node.js, MongoDB, and frameworks like Express.
 Experience developing and working with APIs.
-Data manipulation on SQL and NoSQL Databases.
+Data manipulation and analysis on SQL and NoSQL Databases.
 Development of plugins (using event handlers, listeners, and APIs).
 Development of desktop apps and forms with C#, VB.NET, and Java (using FXML and CSS).
+Automation of work processes using Power Automate and Python (Selenium).
