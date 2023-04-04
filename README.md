@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Dev | Web Developer
 ----------------------------
 
-Creation of responsive web pages using HTML, CSS, and JavaScript and Front-end frameworks like ReactJS, Tailwind CSS and Bootstrap. Backend Development using Node.js, MongoDB, and frameworks like Express and EJS. Experience developing and working with REST APIs. Data manipulation and analysis on SQL and NoSQL Databases. Development of plugins (using event handlers, listeners, and APIs). Development of desktop apps and forms with C#, VB.NET, and Java (using FXML and CSS). Automation of work processes using Power Automate and Python (Selenium).
+Creation of responsive web pages using HTML, CSS, and JavaScript and Front-end frameworks like Angular, ReactJS, Tailwind CSS and Bootstrap. Backend Development using Node.js, MongoDB, and frameworks like Express and EJS. Experience developing and working with REST APIs. Data manipulation and analysis on SQL and NoSQL Databases. Development of plugins (using event handlers, listeners, and APIs). Development of desktop apps and forms with C#, VB.NET, and Java (using FXML and CSS). Automation of work processes using Power Automate and Python (Selenium).
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [garciabarrantesjoseph@gmail.com](mailto:garciabarrantesjoseph@gmail.com)
